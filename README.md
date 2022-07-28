@@ -1,7 +1,7 @@
 ## Hey, I'm Gustavo Ribeiro dos Santos! 👋
 
-###### 🍿 Student of Data Base at [Fatec SJC](https://fatecsjc-prd.azurewebsites.net/)
-###### 👾 Biulding of Pythaon project - Projeto Integrador FATEC
+###### 🍿 Graduted in Database by [Fatec SJC](https://fatecsjc-prd.azurewebsites.net/)
+###### 👾 Biulding an Web site for sales and learning about Data Engineering
 ###### 🇧🇷 Born in São Paulo, Brazil
 ###### 🚀 Application Services Support Analyst Jr at [Mars Inc](https://www.mars.com/)
 ###### 📫 How to reach me **gustavo.r.santosreis@gmail.com**
