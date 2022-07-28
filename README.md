@@ -4,7 +4,7 @@
 ###### 👾 Biulding of Pythaon project - Projeto Integrador FATEC
 ###### 🇧🇷 Born in São Paulo, Brazil
 ###### 🚀 Application Services Support Analyst Jr at [Mars Inc](https://www.mars.com/)
-###### 📫 How to reach me **gurst6@gmail.com**
+###### 📫 How to reach me **gustavo.r.santosreis@gmail.com**
 
 ### Find me elsewhere 🌎
 ###### 💼 [LinkedIn](https://www.linkedin.com/in/gustavo-ribeiro-dos-santos-0bbb08123/)
