@@ -1,7 +1,7 @@
 ## Hey, I'm Gustavo Ribeiro dos Santos! 👋
 
 ###### 🍿 Graduted in Database by [Fatec SJC](https://fatecsjc-prd.azurewebsites.net/)
-###### 👾 Learning Data Engineering and AI.
+###### 👾 Learning Data Science, AI and ML.
 ###### 🇧🇷 Born in São Paulo, Brazil
 ###### 🚀 Data Analyst at [Mars Inc](https://www.mars.com/)
 ###### 📫 How to reach me **gustavo.r.santosreis@gmail.com**
